@@ -1,2 +1,2 @@
 # AlgorithmsInScala
-Implementations of Algorithms in Scala
+Implementations of Data structures and Algorithms in Scala
