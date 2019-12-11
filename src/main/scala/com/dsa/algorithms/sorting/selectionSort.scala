@@ -9,6 +9,6 @@ object selectionSort {
     val arr = Array.fill(n) {
       StdIn.readInt()
     }
-    
+
   }
 }

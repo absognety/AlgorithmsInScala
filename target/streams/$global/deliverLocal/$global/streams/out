@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m:: delivering :: algorithms#algorithms_2.13;0.1 :: 0.1 :: release :: Wed Dec 11 15:36:53 IST 2019[0m
+[0m[[0mdebug[0m] [0m	options = status=release pubdate=Wed Dec 11 15:36:53 IST 2019 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0minfo[0m] [0m	delivering ivy file to /home/vikaschitturi/AlgorithmsInScala/target/scala-2.13/ivy-0.1.xml[0m
+[0m[[0mdebug[0m] [0m	deliver done (60ms)[0m

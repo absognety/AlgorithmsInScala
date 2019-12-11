@@ -1,0 +1,55 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/swap.scala, /home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/sorting/selectionSort.scala, /home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/sorting/insertionSort.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/swap.scala, /home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/sorting/selectionSort.scala, /home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/sorting/insertionSort.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/swap.scala, /home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/sorting/selectionSort.scala, /home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/sorting/insertionSort.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/swap.scala, /home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/sorting/selectionSort.scala, /home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/sorting/insertionSort.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 3 sources: invalidated sources (3) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 3 Scala sources to /home/vikaschitturi/AlgorithmsInScala/target/scala-2.13/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.13.0[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.13.0[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 56ff26db, interfacing (CompilerInterface) with Scala compiler version 2.13.0[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/home/vikaschitturi/lib/jvm/jdk1.8.0_231/jre/lib/resources.jar:/home/vikaschitturi/lib/jvm/jdk1.8.0_231/jre/lib/rt.jar:/home/vikaschitturi/lib/jvm/jdk1.8.0_231/jre/lib/sunrsasign.jar:/home/vikaschitturi/lib/jvm/jdk1.8.0_231/jre/lib/jsse.jar:/home/vikaschitturi/lib/jvm/jdk1.8.0_231/jre/lib/jce.jar:/home/vikaschitturi/lib/jvm/jdk1.8.0_231/jre/lib/charsets.jar:/home/vikaschitturi/lib/jvm/jdk1.8.0_231/jre/lib/jfr.jar:/home/vikaschitturi/lib/jvm/jdk1.8.0_231/jre/classes:/home/vikaschitturi/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.0.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/vikaschitturi/AlgorithmsInScala/target/scala-2.13/classes[0m
+[0m[[0mdebug[0m] [0mScala compilation took 5.024538979 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/swap.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/swap.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/swap.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/swap.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/swap.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, <init>, ==, clone, swap, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/sorting/selectionSort.scala: Set(<init>, swap)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/sorting/selectionSort.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/sorting/selectionSort.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/sorting/selectionSort.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/sorting/selectionSort.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/sorting/selectionSort.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, selectionSort, equals, asInstanceOf, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/sorting/insertionSort.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/sorting/insertionSort.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/sorting/insertionSort.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/sorting/insertionSort.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/vikaschitturi/AlgorithmsInScala/src/main/scala/com/dsa/algorithms/sorting/insertionSort.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, insertionSort, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

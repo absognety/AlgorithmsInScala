@@ -1,0 +1,21 @@
+[0m[[0minfo[0m] [0mPackaging /home/vikaschitturi/AlgorithmsInScala/target/scala-2.13/algorithms_2.13-0.1.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com/dsa/algorithms/sorting/insertionSort.class[0m
+[0m[[0mdebug[0m] [0m	  /home/vikaschitturi/AlgorithmsInScala/target/scala-2.13/classes/com/dsa/algorithms/sorting/insertionSort.class[0m
+[0m[[0mdebug[0m] [0m	com/dsa/algorithms/swap.class[0m
+[0m[[0mdebug[0m] [0m	  /home/vikaschitturi/AlgorithmsInScala/target/scala-2.13/classes/com/dsa/algorithms/swap.class[0m
+[0m[[0mdebug[0m] [0m	com/dsa/algorithms/sorting/selectionSort$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/vikaschitturi/AlgorithmsInScala/target/scala-2.13/classes/com/dsa/algorithms/sorting/selectionSort$.class[0m
+[0m[[0mdebug[0m] [0m	com/dsa/algorithms/sorting/selectionSort.class[0m
+[0m[[0mdebug[0m] [0m	  /home/vikaschitturi/AlgorithmsInScala/target/scala-2.13/classes/com/dsa/algorithms/sorting/selectionSort.class[0m
+[0m[[0mdebug[0m] [0m	com/dsa/algorithms/sorting/insertionSort$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/vikaschitturi/AlgorithmsInScala/target/scala-2.13/classes/com/dsa/algorithms/sorting/insertionSort$.class[0m
+[0m[[0mdebug[0m] [0m	com/dsa[0m
+[0m[[0mdebug[0m] [0m	  /home/vikaschitturi/AlgorithmsInScala/target/scala-2.13/classes/com/dsa[0m
+[0m[[0mdebug[0m] [0m	com[0m
+[0m[[0mdebug[0m] [0m	  /home/vikaschitturi/AlgorithmsInScala/target/scala-2.13/classes/com[0m
+[0m[[0mdebug[0m] [0m	com/dsa/algorithms/sorting[0m
+[0m[[0mdebug[0m] [0m	  /home/vikaschitturi/AlgorithmsInScala/target/scala-2.13/classes/com/dsa/algorithms/sorting[0m
+[0m[[0mdebug[0m] [0m	com/dsa/algorithms[0m
+[0m[[0mdebug[0m] [0m	  /home/vikaschitturi/AlgorithmsInScala/target/scala-2.13/classes/com/dsa/algorithms[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
