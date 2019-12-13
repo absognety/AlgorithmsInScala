@@ -225,7 +225,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.13.0!scala-compiler.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.13.0!scala-reflect.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.14.6!jline.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 126ms :: artifacts dl 2ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 606ms :: artifacts dl 9ms[0m
 [0m[[0mdebug[0m] [0m	report for algorithms#algorithms_2.13;0.1 compile produced in /home/vikaschitturi/AlgorithmsInScala/target/resolution-cache/reports/algorithms-algorithms_2.13-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for algorithms#algorithms_2.13;0.1 runtime produced in /home/vikaschitturi/AlgorithmsInScala/target/resolution-cache/reports/algorithms-algorithms_2.13-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for algorithms#algorithms_2.13;0.1 test produced in /home/vikaschitturi/AlgorithmsInScala/target/resolution-cache/reports/algorithms-algorithms_2.13-test.xml[0m
@@ -239,5 +239,5 @@
 [0m[[0mdebug[0m] [0m	report for algorithms#algorithms_2.13;0.1 docs produced in /home/vikaschitturi/AlgorithmsInScala/target/resolution-cache/reports/algorithms-algorithms_2.13-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for algorithms#algorithms_2.13;0.1 pom produced in /home/vikaschitturi/AlgorithmsInScala/target/resolution-cache/reports/algorithms-algorithms_2.13-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for algorithms#algorithms_2.13;0.1 scala-tool produced in /home/vikaschitturi/AlgorithmsInScala/target/resolution-cache/reports/algorithms-algorithms_2.13-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (126ms resolve - 2ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (606ms resolve - 9ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
