@@ -1,1 +1,2 @@
 *.xsl linguist-language=Scala
+*.html linguist-language=Scala
